@@ -10,7 +10,7 @@ The InsertionSort class also counts the number of swaps/assignments and compares
 
 The Merge Sort algorithm recursively calls itself for sorting two halves of a partition of the array and calls the merge method to combine the two sorted halves of a portion of an array.
 
-In sorting N objects, merge sort has an average and worst-case performance of **O(N log N)** If the running time of merge sort for a list of length n is T(n), then the recurrence relation <code>T(n) = 2T(n/2) + n</code> as the algorithm splits and sorts two lists of half the size of the original list, and add the n steps taken to merge the resulting two lists. This is a common pattern for divide-and-conquer recurrences.
+In sorting N objects, merge sort has an average and worst-case performance of **O(N log N)** If the running time of merge sort for a list of length n is T(n), then the recurrence relation is : <code>T(n) = 2T(n/2) + n</code> as the algorithm splits and sorts two lists of half the size of the original list, and takes n steps to merge the resulting two lists. This is a common pattern for divide-and-conquer recurrences.
 
 ### Quick Sort
 QuickSort class implements the quicksort algorithm which partitions an array around a pivot element and moves elements so that elements less than the pivot are left of the pivot in the array and elements greater than the pivot are right of the pivot in the array. Then, Quicksort is called again on the left partition of the array and the partition of the array right of the pivot.
