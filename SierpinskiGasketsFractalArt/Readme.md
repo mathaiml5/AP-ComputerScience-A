@@ -1,6 +1,6 @@
 # Sierpinski Gasket & Box Fractal Art
 
-This program uses a simple Drawing library (StdDraw.java) from Princeton CS Dept to construct various Fractal Art pictures using a recrursive construct for Sierpinski's gasket and Box fractal.
+This program uses a simple Drawing library [StdDraw.java](https://introcs.cs.princeton.edu/java/stdlib/StdDraw.java.html) from Dr. Robert Sedgewick and Dr. Kevin Waynes's Intro to CS course at Princeton to construct various Fractal Art pictures using a recursive construct for Sierpinski's gasket and Box fractal.
 
 In the Siepinski's gasket method, we look for mid-points of each side of the starting triangle and construct smaller triangles whose vertices are the midpoints of the parent triangle in each succesive step.
 In effect, we call the sierpinski method recursively until the depth=d value reaches 0 (or d levels of triangles!)
