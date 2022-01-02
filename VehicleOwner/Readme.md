@@ -13,4 +13,4 @@ load capacity and towing capacity of a truck and has various methods including a
 The Vehicle Runner class tests various methods and constructors from the Truck, Vehicle ,and Person classes.
 
 Below is shown the class diagram with the methods and inheritance details.
-![Vehicle Owner Class Diagram](https://github.com/mathaiml5/AP-ComputerScience-A/blob/main/VehicleOwner/images/vehiclecowner-uml.png?raw=true)
+![Vehicle Owner Class Diagram](https://github.com/mathaiml5/AP-ComputerScience-A/blob/main/VehicleOwner/images/vehicleowner-uml.png?raw=true)
