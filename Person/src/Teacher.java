@@ -1,8 +1,8 @@
 
 /**
- * Teacher is a class containing instance variables storing the student id course and salary for a student(in addition to instance variables 
- * inherited for the class Person) ,in addition to having a displayDetails method 
- * which prints out a spring representation of the private instance variables in Teacher.
+ * Teacher is a class containing instance variables storing the subject_name and salary for a teacher (in addition to instance variables
+ * inherited for the class Person) and overrides isplayDetails method
+ * which prints out a string representation of the private instance variables in Teacher.
  *
  * @author Vishak Srikanth
  * @version 1/20/21

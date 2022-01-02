@@ -1,8 +1,8 @@
 
 /**
  * Student is a class containing instance variables storing the student id course and teacher name for a student(in addition to instance variables 
- * inherited for the class Person) ,in addition to having a displayDetails method 
- * which prints out a spring representation of the private instance variables in Teacher.
+ * inherited for the class Person) and overrides displayDetails method
+ * which prints out a string representation of the private instance variables in Teacher.
  *
  * @author Vishak Srikanth
  * @version 1/20/21
