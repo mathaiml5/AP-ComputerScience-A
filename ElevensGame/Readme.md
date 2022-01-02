@@ -11,7 +11,9 @@ The Elevens game is a soltaire like game where you can remove any pair of cards 
 
 The code for uses starter activity code provided by College Board for activities and implements Card.java, Board.java, Deck.java, and uses the GUI runner code for the game.
 
-In particular it also implements the non-GUI simulation mode to determine the probability of winning with 1 million trials. Below is the final UML class diagram for the app:
+In particular it also implements the non-GUI simulation mode to determine the probability of winning with 1 million trials. 
+
+Below is the final UML class diagram for the app:
 ![Elevens Class Diagram](https://github.com/mathaiml5/AP-ComputerScience-A/blob/main/ElevensGame/docs/elevensgame-uml.png?raw=true)
 
 
