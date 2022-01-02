@@ -1,6 +1,6 @@
 # Vehicle and Owner Tester 
 
-This program implements some simple classes to illsutrate the concepts of inheritance, overriding methods, and polymorphism.
+This program implements some simple classes to illustrate the concepts of inheritance, method overriding, and polymorphism.
 
 The Person class stores the name of a person and has various methods including a toString, getter methods, setter methods, and an equals method.
 
