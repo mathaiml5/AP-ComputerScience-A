@@ -30,12 +30,13 @@ public class InsertionSort {
             System.out.println("After executing j= " + i + " in the loop the array data = " + Arrays.toString(d));
         }
         System.out.println("After executing sort method, the number of comparisons = " + comparecount);
-        System.out.println("After executing sort method, the number of assignments = " + assigncount);
+        System.out.println("After executing sort method, the number of swap assignments = " + assigncount);
     }
 
     public static void main(String[] args) {
                 int[] ar = {6, 3, 2, 5, 4,1};
 //        int[] ar = {1,2,3, 4,5,6};
+        System.out.println("Initial unsorted array is: " + Arrays.toString(ar));
         sort(ar);
         System.out.println(Arrays.toString(ar));
     }
