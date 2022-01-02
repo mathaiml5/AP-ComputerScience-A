@@ -1,4 +1,3 @@
-package src;
 
 import java.io.*;
 import java.util.*;
@@ -6,7 +5,7 @@ import java.util.*;
 public class BoxOfProduceMain {
     public static void main(String[] args) {
         //give location of file
-        File file = new File("BoxOfProduceItemsForRandomInputVishakSrikanth.txt");
+        File file = new File("inputs/randominputs.txt");
         //create an empty array to put the 5 fruits in
         String[] list_of_possible_fruits = new String[5];
         //no lines have been read so far

@@ -1,4 +1,3 @@
-package src;
 
 /**
  * We will create an class called Box of Produce which contains 3 items chosen randomly from a set input from text input file
