@@ -68,10 +68,10 @@ public class BenfordsLaw
         //print output
         System.out.println();
         System.out.println("Analysis of sunspot data:");
-        printFirstDigitsSunSpots("sunspots.txt");
+        printFirstDigitsSunSpots("data/sunspots.txt");
         System.out.println();
         System.out.println("Analysis of library book data:");
-        printFirstDigitsLibraryBooks("librarybooks.txt");
+        printFirstDigitsLibraryBooks("data/librarybooks.txt");
     }
         
     
